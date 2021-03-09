@@ -41,6 +41,8 @@ INSTALLED_APPS = [
 
     #   Custom
     'api.apps.ApiConfig',
+    'frontend.apps.FrontendConfig',
+    
 
     #   3'rd Party
     'rest_framework',
